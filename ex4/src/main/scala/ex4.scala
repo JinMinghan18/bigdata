@@ -17,3 +17,4 @@ object ex4 {
     avg.collect().foreach(println)
   }
 }
+
